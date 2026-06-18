@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Claude Code (per-user local settings)
+.claude/settings.local.json
+
+# Editor swap and backup files
+*.swp
+*.swo
+*~
