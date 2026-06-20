@@ -232,4 +232,4 @@ time.
 
 ## Coming up next
 
-[Chapter 2 -- Computing Limits Algebraically](02-computing-limits-algebraically.md) *(not yet written)*
+[Chapter 2 -- Computing Limits Algebraically](02-computing-limits-algebraically.md)

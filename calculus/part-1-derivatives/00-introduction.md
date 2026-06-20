@@ -44,19 +44,19 @@ The marker next to each chapter shows whether it has been written:
 Chapters:
 
 - [x] [Chapter 1 -- The Idea of a Limit](01-the-idea-of-a-limit.md)
-- [ ] Chapter 2 -- Computing Limits Algebraically
-- [ ] Chapter 3 -- Infinite Limits, Limits at Infinity, and When Limits Fail
-- [ ] Chapter 4 -- Continuity
-- [ ] Chapter 5 -- The Derivative
+- [x] [Chapter 2 -- Computing Limits Algebraically](02-computing-limits-algebraically.md)
+- [x] [Chapter 3 -- Limits Involving Infinity](03-limits-involving-infinity.md)
+- [x] [Chapter 4 -- Continuity](04-continuity.md)
+- [x] [Chapter 5 -- The Derivative](05-the-derivative.md)
 - [ ] Chapter 6 -- Basic Derivative Rules
 - [ ] Chapter 7 -- The Product and Quotient Rules
 - [ ] Chapter 8 -- The Chain Rule
 - [ ] Chapter 9 -- Derivatives of Exponentials, Logarithms, and Trig Functions
 - [ ] Chapter 10 -- Implicit Differentiation
-- [ ] Chapter 11 -- Linear Approximation
+- [ ] Chapter 11 -- Linear Approximation and Differentials
 - [ ] Chapter 12 -- Related Rates
-- [ ] Chapter 13 -- Maxima and Minima
+- [ ] Chapter 13 -- Critical Points and Extreme Values
 - [ ] Chapter 14 -- The Mean Value Theorem
-- [ ] Chapter 15 -- Concavity and Curve Sketching
+- [ ] Chapter 15 -- Higher Derivatives, Concavity, and Curve Sketching
 - [ ] Chapter 16 -- Optimization
 - [ ] Chapter 17 -- L'Hôpital's Rule
