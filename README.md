@@ -6,7 +6,8 @@ examples, then the formal idea.
 
 ## Topics
 
-- [Calculus](calculus/00-introduction.md) -- start here
+- [Calculus](calculus/00-introduction.md)
+- [Linear Algebra](linear-algebra/00-introduction.md)
 
 More topics will be added over time.
 
